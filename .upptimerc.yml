@@ -11,6 +11,10 @@ sites:
     url: https://snubs.dev
     expectedStatusCodes:
       - 403
+  - name: dev.transportthing.uk
+    url: https://dev.transportthing.uk
+    expectedStatusCodes:
+      - 403
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
