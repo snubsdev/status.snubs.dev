@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 948,
-    "timeDay": 150,
-    "timeWeek": 185,
-    "timeMonth": 948,
-    "timeYear": 948,
+    "time": 925,
+    "timeDay": 62,
+    "timeWeek": 159,
+    "timeMonth": 925,
+    "timeYear": 925,
     "dailyMinutesDown": {
       "2025-09-23": 24,
       "2025-09-11": 26
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/snubs.dev.ico",
     "slug": "snubs-dev",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 130,
-    "timeDay": 117,
-    "timeWeek": 131,
-    "timeMonth": 130,
-    "timeYear": 130,
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 128,
+    "timeDay": 67,
+    "timeWeek": 119,
+    "timeMonth": 128,
+    "timeYear": 128,
     "dailyMinutesDown": {
       "2025-09-11": 48
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 214,
-    "timeWeek": 132,
-    "timeMonth": 142,
-    "timeYear": 142,
+    "time": 139,
+    "timeDay": 56,
+    "timeWeek": 131,
+    "timeMonth": 139,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   }
 ]
